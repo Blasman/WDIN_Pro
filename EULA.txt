@@ -1,0 +1,78 @@
+END-USER LICENSE AGREEMENT (EULA)
+
+Last updated: May 27, 2026
+
+IMPORTANT — READ CAREFULLY: This End-User License Agreement ("EULA") is a
+legal agreement between you (either an individual or a single entity, the
+"Licensee") and the copyright owner (the "Licensor") for the software
+"Watch Dogs Invasion Notifier PRO" (the "Software"). By installing, copying,
+or otherwise using the Software, you agree to be bound by the terms of this
+EULA. If you do not agree to the terms, do not install or use the Software
+and delete all copies immediately.
+
+1. License Grant
+- Licensor hereby grants Licensee a non-exclusive, non-transferable,
+  revocable license to use the binary form of the Software solely for
+  Licensee's personal or internal business purposes on the device(s) for
+  which the Software was licensed, subject to the terms of this EULA.
+
+2. Restrictions
+- Licensee shall not: (a) modify, adapt, translate, or create derivative works
+  of the Software; (b) reverse engineer, decompile, disassemble, or attempt to
+  discover the source code, trade secrets, or underlying algorithms of the
+  Software; (c) distribute, sublicense, sell, rent, lease, or otherwise transfer
+  the Software or copies of the Software to third parties; (d) remove or
+  alter any proprietary notices, labels, or marks in the Software.
+
+3. Updates
+- Licensor may provide updates, upgrades, patches, or fixes for the Software at
+  its discretion. Updates may be subject to additional terms. Automatic update
+  functionality may be included and may run without additional notice.
+
+4. Ownership
+- All title, ownership rights, and intellectual property rights in and to the
+  Software and any copies remain with Licensor. This EULA does not grant any
+  rights in the source code or any other Licensor intellectual property except
+  as expressly provided herein.
+
+5. Termination
+- This EULA is effective until terminated. Licensor may terminate this EULA
+  immediately if Licensee breaches any term. Upon termination, Licensee must
+  cease using the Software and delete or destroy all copies in its
+  possession or control.
+
+6. Warranty Disclaimer
+- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND. TO THE
+  MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR EXPRESSLY DISCLAIMS ALL
+  WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT
+  NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+  PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7. Limitation of Liability
+- TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT WILL LICENSOR BE LIABLE
+  FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES
+  ARISING OUT OF OR RELATED TO THE SOFTWARE, EVEN IF ADVISED OF THE
+  POSSIBILITY OF SUCH DAMAGES. LICENSOR'S AGGREGATE LIABILITY WILL NOT EXCEED
+  THE AMOUNT PAID BY LICENSEE FOR THE SOFTWARE (IF ANY), OR ONE HUNDRED
+  DOLLARS (USD) IF NO PAYMENT WAS MADE.
+
+8. Export Compliance
+- Licensee shall comply with all applicable export and import laws and
+  regulations.
+
+9. Data & Privacy
+- If the Software collects usage data or telemetry, the Licensor's privacy
+  policy (if any) governs the use and handling of such data. By using the
+  Software, Licensee consents to the collection and processing of telemetry as
+  described in the privacy policy.
+
+10. Governing Law
+- This EULA will be governed by and construed in accordance with the laws of
+  the Licensor's jurisdiction (choose the appropriate jurisdiction), without
+  regard to conflict of law principles. Any disputes arising under this EULA
+  shall be resolved in the appropriate courts of that jurisdiction.
+
+11. Entire Agreement
+- This EULA constitutes the entire agreement between the parties concerning
+  the Software and supersedes all prior or contemporaneous understandings.
+

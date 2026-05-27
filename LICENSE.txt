@@ -1,0 +1,5 @@
+All rights reserved.
+
+This repository contains a closed-source binary distribution of "Watch Dogs Invasion Notifier PRO".
+No open-source license is granted for the binary. Use of the software is governed by the
+End-User License Agreement (EULA) included in `EULA.txt`.
