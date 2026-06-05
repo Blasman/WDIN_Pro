@@ -41,7 +41,7 @@ you may enable them in `config.json` file).
 
 ![Screenshot](https://i.imgur.com/ZCWOzzL.png)
 
-![Screenshot](https://i.imgur.com/uYTz9aN.png)
+![Screenshot](https://i.imgur.com/R7jqaEA.png)
 
 'BLOCK' will allow you to block players based on their IP address/subnet/ASN using Windows Firewall rules. The
 'BFS' button on this menu stands for "Block for Session" where the firewall rule will delete itself when WDIN
