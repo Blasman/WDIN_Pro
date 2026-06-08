@@ -1,0 +1,104 @@
+{
+    "network_interface": "",
+    "display_current_event_in_game": {
+        "enable_scanned": true,
+        "enable_invaded": true,
+        "enable_contract": true,
+        "enable_invading": true,
+        "font": "Arial",
+        "font_size": 20,
+        "left_offset": 4,
+        "top_offset": 4,
+        "background_opacity_percent": 70,
+        "format": "[$EVENT\n][$LOCATION\n][Ping: $PING\n]"
+    },
+    "ping_color_start_values": {
+        "yellow": 120,
+        "_comment_": "orange is optional -- to remove it, set value to null",
+        "orange": null,
+        "red": 250
+    },
+    "display_country_location_of_other_player": {
+        "enabled": true,
+        "display_region_location_for_large_countries": true,
+        "_comment_": "large_countries_to_display_region_for is restricted to the countries: AU, BR, CA, CN, RU, US",
+        "large_countries_to_display_region_for": "AU, BR, CA, CN, RU, US"
+    },
+    "display_scaled_antipodal_distance": {
+        "enabled": false,
+        "sad_color_start_values": {
+            "yellow": 217,
+            "_comment_": "orange is optional -- to remove it, set value to null",
+            "orange": 467,
+            "red": 700
+        }
+    },
+    "logging": {
+        "log_esm_window_to_esm_log_file": false,
+        "log_current_event_to_current_event_txt_file": true
+    },
+    "extra_gui_options": {
+        "disconnect_from_online_session_gui_button": true,
+        "online_toggle_gui_button": true,
+        "add_audio_option_for_your_own_hacking_contracts": false,
+        "add_audio_option_for_when_you_are_the_invader": false,
+        "automatically_reveal_the_invader": {
+            "gui_button": false,
+            "enabled_state": false,
+            "added_delay_in_seconds_before_starting": 0.0
+        },
+        "anti_afk_timeout": {
+            "gui_button": false,
+            "enabled_state": false
+        },
+        "send_invaded_notification_to_ntfy": {
+            "gui_button": false,
+            "enabled_state": false,
+            "mytopic": "",
+            "priority": "4"
+        },
+        "block_player": {
+            "gui_button": false,
+            "block_menu_ahk_style_hotkey": "",
+            "quick_block_for_session_ahk_style_hotkey": ""
+        },
+        "connections": {
+            "gui_button": false,
+            "remove_old_connections_after_x_seconds": null
+        },
+        "shrink_gui_at_startup_to_hide_network_option": false,
+        "or_shrink_gui_at_startup_to_hide_audio_and_network_options": false
+    },
+    "in_game_ahk_style_hotkeys": {
+        "disconnect_from_online_session": "",
+        "toggle_online_services": "",
+        "reload_last_autosave_keypresses": "",
+        "quit_invasion_keypresses": "",
+        "open_online_menu_keypresses": "",
+        "quit_invasion_then_open_online_menu_keypresses": ""
+    },
+    "perform_periodic_watch_dogs_server_status_checks": true,
+    "allow_vpn_server_switching": false,
+    "esm_window_format": {
+        "lines": "auto",
+        "columns": "auto",
+        "_comment_font_face": "DevaVu Sans Mono is not a default Windows font, if it is set as the value below and is not installed, then Windows will use its default font instead. Font is available at https://fonnts.com/font_weights/dejavusansmono-ttf",
+        "font_face": "DejaVu Sans Mono",
+        "font_height": "18"
+    },
+    "_comment_start_wdin_on_specified_monitor": "Forces a re-draw of the GUI and ESM windows and snaps them to the right of specified monitor number (starts at 1)",
+    "start_wdin_on_specified_monitor": null,
+    "check_for_updates": true,
+    "audio_events": {
+        "scanned!": {
+            "file": "sounds\\mgs-alert.mp3",
+            "volume": 0.5,
+            "enabled": true
+        },
+        "invaded!": {
+            "file": "sounds\\inception.mp3",
+            "volume": 0.5,
+            "enabled": true
+        }
+    }
+}
