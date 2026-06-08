@@ -1,8 +1,8 @@
 {
-  "version": "v4.0.0-beta.9",
-  "url": "https://github.com/Blasman/WDIN_Pro/releases/download/v4.0.0-beta.9/wdin-pro-v4.0.0-beta.9.zip",
-  "sha256": "9f26de737c3bd7420ae845d608de1cf9b418bac547a48f1796a7abd827d9ec76",
-  "size": 11807602,
-  "timestamp": "2026-06-02T23:32:55.694700+00:00",
+  "version": "v4.0.0",
+  "url": "https://github.com/Blasman/WDIN_Pro/releases/download/v4.0.0/wdin-pro-v4.0.0.zip",
+  "sha256": "a83ea44d7612cae083ef6cc845de2790df738f3626f79ca11ee48ab8e9f95dfa",
+  "size": 11810260,
+  "timestamp": "2026-06-08T13:21:43.719520+00:00",
   "notes_url": ""
 }
